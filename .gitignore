@@ -1,3 +1,6 @@
+#systems Files
+.DS_store
+desktop.si
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
