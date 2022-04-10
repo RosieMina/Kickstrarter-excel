@@ -8,7 +8,7 @@ The purpose of the kickstarter project is to help Louise identify what goal she 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![Outcomes based on Goals](./Images/Theater_Outcome_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
