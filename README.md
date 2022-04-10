@@ -24,5 +24,8 @@ The purpose of the kickstarter project is to help Louise identify what goal she 
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
+Looking at more fields like more time 
+Looking at this you can only see plays in the theater category but if yoiu want musicals this is beyond
+scope is limited to plays not beyond that unless you create new data
 
 - What are some other possible tables and/or graphs that we could create?
