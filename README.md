@@ -12,7 +12,7 @@ The purpose of the kickstarter project is to help Louise identify what goal she 
 ### Analysis of Outcomes Based on Launch Date
 
 
-![Outcomes based on Goals](
+![Outcomes based on Goals](./Resources/Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
