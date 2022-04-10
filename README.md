@@ -7,10 +7,12 @@
 The purpose of the kickstarter project is to help Louise identify what goal she should set her play at in order for it to have the best chance at succeeding. We have access to thousands of kickstarters that range from all types of categories	and subcategories and have the information of their goals and what was actually pledged. 
 ## Analysis and Challenges
 
+![Outcomes based on Goals](./Resources/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes based on Goals](./Images/Theater_Outcome_vs_Launch.png)
 
 
+![Outcomes based on Goals](
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
