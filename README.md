@@ -16,6 +16,7 @@ The purpose of the kickstarter project is to help Louise identify what goal she 
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
+Due to the very comprehensive material on the modules, i did not encounter too many challenges. However, the few I did encounter revolved around the formulas in the data set. More specifically during the second dileverable i had a dificult time filling up column B because I kept doing the the formula wrong and i didn't understand why. After much 
 
 ## Results
 
